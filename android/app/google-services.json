@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233557851067",
+    "firebase_url": "https://testmania-668ea.firebaseio.com",
+    "project_id": "testmania-668ea",
+    "storage_bucket": "testmania-668ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233557851067:android:1277aeb576928940a3e29e",
+        "android_client_info": {
+          "package_name": "com.testmania_react"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233557851067-q1r1sdslersf7o3df918cm2jf3tuuepc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkQPWYInE7OTAvYsezUAZs1lwrPFGwXJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233557851067-q1r1sdslersf7o3df918cm2jf3tuuepc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
