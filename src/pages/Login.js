@@ -25,7 +25,7 @@ const Login =props=>{
         if(userEmail.length !=0 && password.length != 0){
            auth().signInWithEmailAndPassword(userEmail,password)
            .then(()=>{
-                props.navigation.navigate("Main")
+                props.navigation.navigate("MainUser")
             }).catch((err)=>{
 
                 console.log(err)
